@@ -2,7 +2,7 @@
 
 ### Try it [here](https://guillaumeauger85.github.io/Event-Delegation-exercise/)
 
-![htmlJs](https://user-images.githubusercontent.com/49698792/181611609-02f912a9-effc-4cfe-9fd0-130a6ed39480.png)
+![htmlJs](https://user-images.githubusercontent.com/49698792/182230793-61d5fccb-e41d-4273-a969-94be60eacd4d.png)
 
 DOM manipulation exercise from [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/) course.
 
