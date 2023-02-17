@@ -1,4 +1,4 @@
-# Event-Delegation-exercise
+# Event Delegation exercise
 
 ### Try it [here](https://guillaumeauger85.github.io/Event-Delegation-exercise/)
 
